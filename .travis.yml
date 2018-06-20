@@ -9,3 +9,7 @@ branches:
     - master
 rvm:
  - 2.4
+install: gem install jekyll -v 3.8.3 && gem install s3_website
+after_success: s3_website push
+
+
