@@ -22,7 +22,7 @@ To all participants-- I will post a list of things to do this week below.  But b
 6. Log into slack and go to the #general channel and say "Hi my name is Phil and my github id is pdbradley" so we know you got this far. (except use your name and id)
 
 
-### GREAT JOB!
+### GREAT JOB!!
 
 If you can get all that set up, you are ready to start pushing through the lessons in the [Java the Hard Way](https://learnjavathehardway.org/book/) online book.
 
