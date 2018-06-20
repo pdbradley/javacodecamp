@@ -1,0 +1,22 @@
+---
+layout: single
+title:  "Session One:  Math and Such"
+date:   2018-06-19
+categories: main
+---
+
+Today we started off with just two participants:  Hope and Hava.  They are churning through lessons 0-5.
+
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/4vIE3GCPNs4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+Also Theo wanted some help with saving files from sublime into the right folder:
+
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Q4AZAZq3-QQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+Jeremiah may follow up with another post with some cheat sheets and stuff to help us be more comfortable in the terminal.

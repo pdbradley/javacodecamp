@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Slack"
+    url: https://javacodecamp.slack.com/
+  - title: "Github"
+    url: https://github.com
+  - title: "Java the Hard Way"
+    url: https://learnjavathehardway.com/book
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/

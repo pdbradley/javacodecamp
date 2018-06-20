@@ -1,0 +1,41 @@
+---
+layout: single
+title:  "Welcome to Java Code Camp"
+date:   2018-06-18
+categories: main
+---
+
+To all participants-- I will post a list of things to do this week below.  But before I do--don't be intimidated by this first set of requirements.  It may seem like a lot to handle.  It is.  But once you get set up and used to using these tools, they will make your life a lot easier.
+
+### Getting Set Up
+
+1. Set up an account on our Slack Channel at [javacodecamp.slack.com](https://javacodecamp.slack.com).  Slack is a group communication tool we will use to help each other.  You can use [this link](https://join.slack.com/t/javacodecamp/shared_invite/enQtMzg0MjM5MzEyNDA2LThkNTJiZjg3MTkwMjA0YjNmOTc5YWQwZGI1ZTBiOWUyODcwNGRjYTM0MmYwY2EzZjc0Y2E4ZmNhM2ZlMWY2Mzk) to create your login and password.  
+2. Create an account at [github.com](https://github.com). This is where you might put some of your code for others to look at. Your github id will stay with you for a long time and is important so don't pick a username that is too silly.
+3. Install [Iterm 2](https:/www.iterm2.com) on your mac if you have not done so already.
+4. Install [Sublime Text](https://www.sublimetext.com/3) as a text editor.  Or, if you have another favorite text editor, install that.  But Sublime is very easy to use.
+5. Read [this page](http://conqueringthecommandline.com/book/basics) and play around in the terminal (Iterm2) until you know how to
+  * create directories (folders) using the 'mkdir' command
+  * move into a directory using the 'cd' command
+  * see what is in a directory using the 'ls' command
+  * see what folder you are in using 'pwd'
+  * the above stuff is important because we will spend a lot of time in the terminal moving around
+6. Log into slack and go to the #general channel and say "Hi my name is Phil and my github id is pdbradley" so we know you got this far. (except use your name and id)
+
+
+### GREAT JOB!
+
+If you can get all that set up, you are ready to start pushing through the lessons in the [Java the Hard Way](https://learnjavathehardway.org/book/) online book.
+
+This week we want to do exercises 0-5.  Exercise 0 is more of a setup phase, mostly covered above. If you can get all the way through exercise 5, that's great!  Feel free to keep going.
+
+### IF YOU GET STUCK...
+
+Here are the help sessions available to you:
+
+1.  Slack is available ALL THE TIME.  If you go to the #general channel and post a message and mention me (@pdbradley) you will get a response pretty quick.
+2. We also will have a live workshop / help session Tuesday and Thursday of this week.  Tuesday at 4pm EST and Thursday at 10am EST.  To join those help sessions you need to log into [Slack at javacodecamp.slack.com](https://javacodecamp.slack.com) and the #general channel will tell you where to go.  Please make sure you have earbuds and are in a relatively quiet place.
+
+
+Towards the end of the week we will learn to how to use [gist.github.com](https://gist.github.com) to post our work to one another on slack.
+
+
