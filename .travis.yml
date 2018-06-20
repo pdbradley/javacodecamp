@@ -4,8 +4,10 @@ cache: bundler
 rvm:
  - 2.4
 
-install: gem install jekyll -v 3.8.3 && gem install s3_website
 script: bundle exec jekyll build
+
+# install: gem install jekyll -v 3.8.3 && gem install s3_website
+install: bundle install
 
 branches:
   only:
