@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Terminal Cheat Sheet: Terminal Goodness and Running your Java files from the terminal"
+title:  "Terminal Cheat Sheet: Terminal Goodness" 
 date:   2018-06-24
 categories: main
 ---
