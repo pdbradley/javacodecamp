@@ -1,13 +1,20 @@
 ---
 layout: single
-title:  "Session One Extended:  Math and Terminal"
-date:   2018-06-19
+title:  "Terminal Cheat Sheet: Terminal Goodness and Running your Java files from there terminal"
+date:   2018-06-24
 categories: main
 ---
 
 Hey guys! After talking to a few of you I wanted to make a screen cast going over terminal navigation and I also wanted to make a quick cheat sheet with the most useful commands
 
 Before I start I want to reemphasize that a directory is the same thing as a folder.
+
+| Run your Java File | Definition |
+|---|---|
+| javac YourFile.java | Compiles your java file DO THIS FIRST |
+| java YourFile | After compiling and typing `ls` you will see a .class file then run this command | 
+
+
 
 | Command | Definition  | Purpose |
 |----|---|---|
