@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Exercise 6 Walkthrough:  Math Operators and explinations"
+title:  "Exercise 6 Walkthrough:  Math Operators"
 date:   2018-06-24
 categories: main
 ---
