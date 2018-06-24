@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  "Terminal Cheat Sheet: Terminal Goodness and Running your Java files from there terminal"
+title:  "Terminal Cheat Sheet: Terminal Goodness and Running your Java files from the terminal"
 date:   2018-06-24
 categories: main
 ---
 
-Hey guys! After talking to a few of you I wanted to make a screen cast going over terminal navigation and I also wanted to make a quick cheat sheet with the most useful commands
+Hey guys! After talking to a few of you, I wanted to make a screencast going over terminal navigation, and I also wanted to make a quick cheat sheet with the most useful commands
 
-Before I start I want to reemphasize that a directory is the same thing as a folder.
+Before I start, I want to reemphasize that a directory is the same thing as a folder.
 
 | Run your Java File | Definition |
 |---|---|
@@ -44,7 +44,7 @@ Before I start I want to reemphasize that a directory is the same thing as a fol
 | touch [file] | Create new file | Allows you to create a new empty file 
 
 
-Some general cool terminal navigation techniques 
+Some general cool terminal navigation techniques.
 
 | Command | Description|
 |---|---|
@@ -58,8 +58,9 @@ Some general cool terminal navigation techniques
 | TAB | Auto completion of file or command|
 | nc towel.blinkenlights.nl 23 | One of the coolest commands there is |
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=MsdjQqyzqEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/MsdjQqyzqEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 If you need any clarification reach out to me on slack! 
