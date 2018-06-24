@@ -43,9 +43,11 @@ Before I start I want to reemphasize that a directory is the same thing as a fol
 | tail -10 [file] | Displays the bottom (tail) ten lines of the file | Useful to check what is in the file without opening it
 | touch [file] | Create new file | Allows you to create a new empty file 
 
+
 Some general cool terminal navigation techniques 
-| Command | Description
-|---|---
+
+| Command | Description|
+|---|---|
 | ⬆ | Displays last command typed you can press up again to see the command before that etc. |
 | Ctrl + A | Go to the beginning of the line you are currently typing on |
 | Ctrl + E | Go to the end of the line you are currently typing on |
